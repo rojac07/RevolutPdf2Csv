@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevolutPdf2Csv", "RevolutPdf2Csv\RevolutPdf2Csv.csproj", "{86166D79-4A76-4363-A802-ED94634D8B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevolutPdf2CsvTestApp", "RevolutPdf2CsvTestApp\RevolutPdf2CsvTestApp.csproj", "{A2282BF3-1CD3-43EA-9B4C-CFC936E5A31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86166D79-4A76-4363-A802-ED94634D8B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86166D79-4A76-4363-A802-ED94634D8B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86166D79-4A76-4363-A802-ED94634D8B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86166D79-4A76-4363-A802-ED94634D8B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2282BF3-1CD3-43EA-9B4C-CFC936E5A31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2282BF3-1CD3-43EA-9B4C-CFC936E5A31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2282BF3-1CD3-43EA-9B4C-CFC936E5A31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2282BF3-1CD3-43EA-9B4C-CFC936E5A31D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0858E89B-0BC6-46D6-8B4F-C9F76D4CD30F}
+	EndGlobalSection
+EndGlobal
