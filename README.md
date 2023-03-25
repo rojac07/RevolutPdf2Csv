@@ -15,6 +15,6 @@ This tool will read Stock Trade Statement(s) in pdf and converts into CSV file.
 		argument2 - output location of the results
 				
 				
-## You can buy me a coffee :)
 
-https://www.buymeacoffee.com/rojac
+
+
